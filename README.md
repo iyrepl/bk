@@ -17,7 +17,7 @@ Change Language to "Bash",Choose "Import from GitHub".
 
 2. Copy these code to Replit's Shell and ←
 
-   git clone https://github.com/gityzon/bk-ng.git && mv -b bk-ng/* ./ && mv -b bk-ng/.[^.]* ./ && rm -rf *~ && rm -rf bk-ng
+   git clone https://github.com/gityzon/bk-ng && mv -b bk-ng/* ./ && mv -b bk-ng/.[^.]* ./ && rm -rf *~ && rm -rf bk-ng
 
 3. After "Loading Nix environment..." is done, ▶RUN!!!
 
